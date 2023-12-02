@@ -1,0 +1,1146 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.main .main2{
+    height: 3000px;
+    position: absolute;
+  
+}
+.main ul{
+    display: flex;
+    line-height: 80px;
+    margin-right: 30px;
+    position: absolute;
+    top: 50px;
+    left: 100px;
+
+}
+.main ul li{
+    list-style: none;
+    margin-right: 250px;
+}
+
+.main ul li .main2{
+    color: white;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 80px;
+
+}
+.main .main4{
+    display: flex;
+    line-height: 80px;
+    margin-right: 30px;
+    position: absolute;
+    top: 50px;
+    left: 60%;
+}
+.main .main4 li{
+    list-style: none;
+    margin-right: 100px;
+}
+.main .main4 .main3{
+    color: white;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 0px;
+ 
+}
+.main h1{
+    color: white;
+    font-size: 30px;
+    letter-spacing: 3px;
+    position: absolute;
+    top: 435px;
+    left: 82%;
+}
+.main h2{
+    color: white;
+    font-size: 30px;
+    letter-spacing: 3px;
+    position: absolute;
+    top: 440px;
+    left: 80px;
+}
+.main button{
+    background-color: rgb(255, 255, 22);
+    width: 170px;
+    height: 50px;
+    border-radius: 30px;
+    font-size: 20px;
+    color: black;
+   letter-spacing: 3px;
+    position: absolute;
+    top: 700px;
+    left: 80px;
+}
+
+.border{
+  background-color: rgb(210, 218, 231);
+   width: 400px;
+   height: 450px;
+   margin: auto;
+   position: relative;
+   overflow: hidden;
+   position: absolute;
+   top: 950px;
+   left: 40px;
+}
+.border .img2{
+   
+    position: absolute;
+    top: 120px;
+    left: -30px;
+}
+.border h1{
+ 
+    color: black;
+    font-size: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: absolute;
+    top: 20px;
+    left: 30px;
+}
+.border h2{
+ 
+    color: black;
+    font-size: 25px;
+    font-family: serif;
+    position: absolute;
+    top: 70px;
+    left: 30px;
+}
+.border .img3{
+    width: 100px;
+    height: 50px;
+    position: absolute;
+    top: 350px; 
+}
+.border .img4{
+    width: 100px;
+    height: 50px;
+    position: absolute;
+    top: 350px; 
+    left: 35%;
+}
+.border .img5{
+    width: 100px;
+    height: 50px;
+    position: absolute;
+    top: 350px; 
+    left: 300px;
+}
+.border h3{
+ 
+    color: black;
+    font-size: 20px;
+    font-family: serif;
+    position: absolute;
+    top: 400px;
+    left: 35px;
+}
+.border h4{
+ 
+    color: black;
+    font-size: 20px;
+    font-family: serif;
+    position: absolute;
+    top: 400px;
+    left: 160px;
+}
+.border h5{
+ 
+    color: black;
+    font-size: 20px;
+    font-family: serif;
+    position: absolute;
+    top: 400px;
+    left: 320px;
+}
+.border2{
+  background-color: rgb(210, 218, 231);
+   width: 400px;
+   height: 450px;
+   margin: auto;
+   position: relative;
+   overflow: hidden;
+   position: absolute;
+   top: 1500px;
+   left: 40px;
+}
+.border2 .img2{
+    width: 300px;
+    height: 200px;
+    position: absolute;
+    top: 150px;
+    left: 40px;
+}
+.border2 h1{
+ 
+    color: black;
+    font-size: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: absolute;
+    top: 20px;
+    left: 30px;
+}
+.border2 h2{
+ 
+    color: black;
+    font-size: 25px;
+    font-family: serif;
+    position: absolute;
+    top: 70px;
+    left: 30px;
+}
+.border2 .img3{
+    width: 100px;
+    height: 50px;
+    position: absolute;
+    top: 350px; 
+}
+.border2 .img4{
+    width: 100px;
+    height: 50px;
+    position: absolute;
+    top: 350px; 
+    left: 35%;
+}
+.border2 .img5{
+    width: 100px;
+    height: 50px;
+    position: absolute;
+    top: 350px; 
+    left: 300px;
+}
+.border2 h3{
+ 
+    color: black;
+    font-size: 20px;
+    font-family: serif;
+    position: absolute;
+    top: 400px;
+    left: 35px;
+}
+.border2 h4{
+ 
+    color: black;
+    font-size: 20px;
+    font-family: serif;
+    position: absolute;
+    top: 400px;
+    left: 160px;
+}
+.border2 h5{
+ 
+    color: black;
+    font-size: 20px;
+    font-family: serif;
+    position: absolute;
+    top: 400px;
+    left: 320px;
+}
+.border3{
+    background-color: rgb(210, 218, 231);
+     width: 400px;
+     height: 450px;
+     margin: auto;
+     position: relative;
+     overflow: hidden;
+     position: absolute;
+     top: 950px;
+     left: 580px;
+  }
+  .border3 .img2{
+      width: 300px;
+      height: 250px;
+      position: absolute;
+      top: 120px;
+      left: 50px;
+  }
+  .border3 h1{
+   
+      color: black;
+      font-size: 25px;
+      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+      position: absolute;
+      top: 20px;
+      left: 30px;
+  }
+  .border3 h2{
+   
+      color: black;
+      font-size: 25px;
+      font-family: serif;
+      position: absolute;
+      top: 70px;
+      left: 30px;
+  }
+  .border3 .img3{
+      width: 100px;
+      height: 50px;
+      position: absolute;
+      top: 350px; 
+  }
+  .border3 .img4{
+      width: 100px;
+      height: 50px;
+      position: absolute;
+      top: 350px; 
+      left: 35%;
+  }
+  .border3 .img5{
+      width: 100px;
+      height: 50px;
+      position: absolute;
+      top: 350px; 
+      left: 300px;
+  }
+  .border3 h3{
+   
+      color: black;
+      font-size: 20px;
+      font-family: serif;
+      position: absolute;
+      top: 400px;
+      left: 35px;
+  }
+  .border3 h4{
+   
+      color: black;
+      font-size: 20px;
+      font-family: serif;
+      position: absolute;
+      top: 400px;
+      left: 160px;
+  }
+  .border3 h5{
+   
+      color: black;
+      font-size: 20px;
+      font-family: serif;
+      position: absolute;
+      top: 400px;
+      left: 320px;
+  }
+  .border4{
+    background-color: rgb(210, 218, 231);
+     width: 400px;
+     height: 450px;
+     margin: auto;
+     position: relative;
+     overflow: hidden;
+     position: absolute;
+     top: 1500px;
+     left: 580px;
+  }
+  .border4 .img2{
+      width: 500px;
+      height: 300px;
+      position: absolute;
+      top: 100px;
+  }
+  .border4 h1{
+   
+      color: black;
+      font-size: 25px;
+      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+      position: absolute;
+      top: 20px;
+      left: 30px;
+  }
+  .border4 h2{
+   
+      color: black;
+      font-size: 25px;
+      font-family: serif;
+      position: absolute;
+      top: 70px;
+      left: 30px;
+  }
+  .border4 .img3{
+      width: 100px;
+      height: 50px;
+      position: absolute;
+      top: 350px; 
+  }
+  .border4 .img4{
+      width: 100px;
+      height: 50px;
+      position: absolute;
+      top: 350px; 
+      left: 35%;
+  }
+  .border4 .img5{
+      width: 100px;
+      height: 50px;
+      position: absolute;
+      top: 350px; 
+      left: 300px;
+  }
+  .border4 h3{
+   
+      color: black;
+      font-size: 20px;
+      font-family: serif;
+      position: absolute;
+      top: 400px;
+      left: 35px;
+  }
+  .border4 h4{
+   
+      color: black;
+      font-size: 20px;
+      font-family: serif;
+      position: absolute;
+      top: 400px;
+      left: 160px;
+  }
+  .border4 h5{
+   
+      color: black;
+      font-size: 20px;
+      font-family: serif;
+      position: absolute;
+      top: 400px;
+      left: 320px;
+  }
+  .border5{
+    background-color: rgb(210, 218, 231);
+     width: 400px;
+     height: 450px;
+     margin: auto;
+     position: relative;
+     overflow: hidden;
+     position: absolute;
+     top: 950px;
+     left: 1100px;
+  }
+  .border5 .img2{
+      width: 300px;
+      height: 250px;
+      position: absolute;
+      top: 110px;
+      left: 40px;
+  }
+  .border5 h1{
+   
+      color: black;
+      font-size: 25px;
+      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+      position: absolute;
+      top: 20px;
+      left: 30px;
+  }
+  .border5 h2{
+   
+      color: black;
+      font-size: 25px;
+      font-family: serif;
+      position: absolute;
+      top: 70px;
+      left: 30px;
+  }
+  .border5 .img3{
+      width: 100px;
+      height: 50px;
+      position: absolute;
+      top: 350px; 
+  }
+  .border5 .img4{
+      width: 100px;
+      height: 50px;
+      position: absolute;
+      top: 350px; 
+      left: 35%;
+  }
+  .border5 .img5{
+      width: 100px;
+      height: 50px;
+      position: absolute;
+      top: 350px; 
+      left: 300px;
+  }
+  .border5 h3{
+   
+      color: black;
+      font-size: 20px;
+      font-family: serif;
+      position: absolute;
+      top: 400px;
+      left: 35px;
+  }
+  .border5 h4{
+   
+      color: black;
+      font-size: 20px;
+      font-family: serif;
+      position: absolute;
+      top: 400px;
+      left: 160px;
+  }
+  .border5 h5{
+   
+      color: black;
+      font-size: 20px;
+      font-family: serif;
+      position: absolute;
+      top: 400px;
+      left: 320px;
+  }
+  .border6{
+    background-color: rgb(210, 218, 231);
+     width: 400px;
+     height: 450px;
+     margin: auto;
+     position: relative;
+     overflow: hidden;
+     position: absolute;
+     top: 1500px;
+     left: 1100px;
+  }
+  .border6 .img2{
+      width: 400px;
+      height: 250px;
+      position: absolute;
+      top: 100px;
+      left: 0px;
+  }
+  .border6 h1{
+   
+      color: black;
+      font-size: 25px;
+      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+      position: absolute;
+      top: 20px;
+      left: 30px;
+  }
+  .border6 h2{
+   
+      color: black;
+      font-size: 25px;
+      font-family: serif;
+      position: absolute;
+      top: 70px;
+      left: 30px;
+  }
+  .border6 .img3{
+      width: 100px;
+      height: 50px;
+      position: absolute;
+      top: 350px; 
+  }
+  .border6 .img4{
+      width: 100px;
+      height: 50px;
+      position: absolute;
+      top: 350px; 
+      left: 35%;
+  }
+  .border6 .img5{
+      width: 100px;
+      height: 50px;
+      position: absolute;
+      top: 350px; 
+      left: 300px;
+  }
+  .border6 h3{
+   
+      color: black;
+      font-size: 20px;
+      font-family: serif;
+      position: absolute;
+      top: 400px;
+      left: 35px;
+  }
+  .border6 h4{
+   
+      color: black;
+      font-size: 20px;
+      font-family: serif;
+      position: absolute;
+      top: 400px;
+      left: 160px;
+  }
+  .border6 h5{
+   
+      color: black;
+      font-size: 20px;
+      font-family: serif;
+      position: absolute;
+      top: 400px;
+      left: 320px;
+  }
+
+.border7{
+  background-color: rgb(210, 218, 231);
+   width: 400px;
+   height: 450px;
+   margin: auto;
+   position: relative;
+   overflow: hidden;
+   position: absolute;
+   top: 2050px;
+   left: 40px;
+}
+.border7 .img2{
+   
+    position: absolute;
+    top: 120px;
+    left: -30px;
+}
+.border7 h1{
+ 
+    color: black;
+    font-size: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: absolute;
+    top: 20px;
+    left: 30px;
+}
+.border7 h2{
+ 
+    color: black;
+    font-size: 25px;
+    font-family: serif;
+    position: absolute;
+    top: 70px;
+    left: 30px;
+}
+.border7 .img3{
+    width: 100px;
+    height: 50px;
+    position: absolute;
+    top: 350px; 
+}
+.border7 .img4{
+    width: 100px;
+    height: 50px;
+    position: absolute;
+    top: 350px; 
+    left: 35%;
+}
+.border7 .img5{
+    width: 100px;
+    height: 50px;
+    position: absolute;
+    top: 350px; 
+    left: 300px;
+}
+.border7 h3{
+ 
+    color: black;
+    font-size: 20px;
+    font-family: serif;
+    position: absolute;
+    top: 400px;
+    left: 35px;
+}
+.border7 h4{
+ 
+    color: black;
+    font-size: 20px;
+    font-family: serif;
+    position: absolute;
+    top: 400px;
+    left: 160px;
+}
+.border7 h5{
+ 
+    color: black;
+    font-size: 20px;
+    font-family: serif;
+    position: absolute;
+    top: 400px;
+    left: 320px;
+}
+.border8{
+  background-color: rgb(210, 218, 231);
+   width: 400px;
+   height: 450px;
+   margin: auto;
+   position: relative;
+   overflow: hidden;
+   position: absolute;
+   top: 2600px;
+   left: 40px;
+}
+.border8 .img2{
+    width: 300px;
+    height: 200px;
+    position: absolute;
+    top: 150px;
+    left: 40px;
+}
+.border8 h1{
+ 
+    color: black;
+    font-size: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: absolute;
+    top: 20px;
+    left: 30px;
+}
+.border8 h2{
+ 
+    color: black;
+    font-size: 25px;
+    font-family: serif;
+    position: absolute;
+    top: 70px;
+    left: 30px;
+}
+.border8 .img3{
+    width: 100px;
+    height: 50px;
+    position: absolute;
+    top: 350px; 
+}
+.border8 .img4{
+    width: 100px;
+    height: 50px;
+    position: absolute;
+    top: 350px; 
+    left: 35%;
+}
+.border8 .img5{
+    width: 100px;
+    height: 50px;
+    position: absolute;
+    top: 350px; 
+    left: 300px;
+}
+.border8 h3{
+ 
+    color: black;
+    font-size: 20px;
+    font-family: serif;
+    position: absolute;
+    top: 400px;
+    left: 35px;
+}
+.border8 h4{
+ 
+    color: black;
+    font-size: 20px;
+    font-family: serif;
+    position: absolute;
+    top: 400px;
+    left: 160px;
+}
+.border8 h5{
+ 
+    color: black;
+    font-size: 20px;
+    font-family: serif;
+    position: absolute;
+    top: 400px;
+    left: 320px;
+}
+.border9{
+    background-color: rgb(210, 218, 231);
+     width: 400px;
+     height: 450px;
+     margin: auto;
+     position: relative;
+     overflow: hidden;
+     position: absolute;
+     top: 2050px;
+     left: 580px;
+  }
+  .border9 .img2{
+      width: 300px;
+      height: 250px;
+      position: absolute;
+      top: 120px;
+      left: 50px;
+  }
+  .border9 h1{
+   
+      color: black;
+      font-size: 25px;
+      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+      position: absolute;
+      top: 20px;
+      left: 30px;
+  }
+  .border9 h2{
+   
+      color: black;
+      font-size: 25px;
+      font-family: serif;
+      position: absolute;
+      top: 70px;
+      left: 30px;
+  }
+  .border9 .img3{
+      width: 100px;
+      height: 50px;
+      position: absolute;
+      top: 350px; 
+  }
+  .border9 .img4{
+      width: 100px;
+      height: 50px;
+      position: absolute;
+      top: 350px; 
+      left: 35%;
+  }
+  .border9 .img5{
+      width: 100px;
+      height: 50px;
+      position: absolute;
+      top: 350px; 
+      left: 300px;
+  }
+  .border9 h3{
+   
+      color: black;
+      font-size: 20px;
+      font-family: serif;
+      position: absolute;
+      top: 400px;
+      left: 35px;
+  }
+  .border9 h4{
+   
+      color: black;
+      font-size: 20px;
+      font-family: serif;
+      position: absolute;
+      top: 400px;
+      left: 160px;
+  }
+  .border9 h5{
+   
+      color: black;
+      font-size: 20px;
+      font-family: serif;
+      position: absolute;
+      top: 400px;
+      left: 320px;
+  }
+  .border10{
+    background-color: rgb(210, 218, 231);
+     width: 400px;
+     height: 450px;
+     margin: auto;
+     position: relative;
+     overflow: hidden;
+     position: absolute;
+     top: 2600px;
+     left: 580px;
+  }
+  .border10 .img2{
+      width: 500px;
+      height: 300px;
+      position: absolute;
+      top: 100px;
+  }
+  .border10 h1{
+   
+      color: black;
+      font-size: 25px;
+      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+      position: absolute;
+      top: 20px;
+      left: 30px;
+  }
+  .border10 h2{
+   
+      color: black;
+      font-size: 25px;
+      font-family: serif;
+      position: absolute;
+      top: 70px;
+      left: 30px;
+  }
+  .border10 .img3{
+      width: 100px;
+      height: 50px;
+      position: absolute;
+      top: 350px; 
+  }
+  .border10 .img4{
+      width: 100px;
+      height: 50px;
+      position: absolute;
+      top: 350px; 
+      left: 35%;
+  }
+  .border10 .img5{
+      width: 100px;
+      height: 50px;
+      position: absolute;
+      top: 350px; 
+      left: 300px;
+  }
+  .border10 h3{
+   
+      color: black;
+      font-size: 20px;
+      font-family: serif;
+      position: absolute;
+      top: 400px;
+      left: 35px;
+  }
+  .border10 h4{
+   
+      color: black;
+      font-size: 20px;
+      font-family: serif;
+      position: absolute;
+      top: 400px;
+      left: 160px;
+  }
+  .border10 h5{
+   
+      color: black;
+      font-size: 20px;
+      font-family: serif;
+      position: absolute;
+      top: 400px;
+      left: 320px;
+  }
+  .border11{
+    background-color: rgb(210, 218, 231);
+     width: 400px;
+     height: 450px;
+     margin: auto;
+     position: relative;
+     overflow: hidden;
+     position: absolute;
+     top: 2050px;
+     left: 1100px;
+  }
+  .border11 .img2{
+      width: 300px;
+      height: 250px;
+      position: absolute;
+      top: 110px;
+      left: 40px;
+  }
+  .border11 h1{
+   
+      color: black;
+      font-size: 25px;
+      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+      position: absolute;
+      top: 20px;
+      left: 30px;
+  }
+  .border11 h2{
+   
+      color: black;
+      font-size: 25px;
+      font-family: serif;
+      position: absolute;
+      top: 70px;
+      left: 30px;
+  }
+  .border11 .img3{
+      width: 100px;
+      height: 50px;
+      position: absolute;
+      top: 350px; 
+  }
+  .border11 .img4{
+      width: 100px;
+      height: 50px;
+      position: absolute;
+      top: 350px; 
+      left: 35%;
+  }
+  .border11 .img5{
+      width: 100px;
+      height: 50px;
+      position: absolute;
+      top: 350px; 
+      left: 300px;
+  }
+  .border11 h3{
+   
+      color: black;
+      font-size: 20px;
+      font-family: serif;
+      position: absolute;
+      top: 400px;
+      left: 35px;
+  }
+  .border11 h4{
+   
+      color: black;
+      font-size: 20px;
+      font-family: serif;
+      position: absolute;
+      top: 400px;
+      left: 160px;
+  }
+  .border11 h5{
+   
+      color: black;
+      font-size: 20px;
+      font-family: serif;
+      position: absolute;
+      top: 400px;
+      left: 320px;
+  }
+  .border12{
+    background-color: rgb(210, 218, 231);
+     width: 400px;
+     height: 450px;
+     margin: auto;
+     position: relative;
+     overflow: hidden;
+     position: absolute;
+     top: 2600px;
+     left: 1100px;
+  }
+  .border12 .img2{
+      width: 400px;
+      height: 250px;
+      position: absolute;
+      top: 100px;
+      left: 0px;
+  }
+  .border12 h1{
+   
+      color: black;
+      font-size: 25px;
+      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+      position: absolute;
+      top: 20px;
+      left: 30px;
+  }
+  .border12 h2{
+   
+      color: black;
+      font-size: 25px;
+      font-family: serif;
+      position: absolute;
+      top: 70px;
+      left: 30px;
+  }
+  .border12 .img3{
+      width: 100px;
+      height: 50px;
+      position: absolute;
+      top: 350px; 
+  }
+  .border12 .img4{
+      width: 100px;
+      height: 50px;
+      position: absolute;
+      top: 350px; 
+      left: 35%;
+  }
+  .border12 .img5{
+      width: 100px;
+      height: 50px;
+      position: absolute;
+      top: 350px; 
+      left: 300px;
+  }
+  .border12 h3{
+   
+      color: black;
+      font-size: 20px;
+      font-family: serif;
+      position: absolute;
+      top: 400px;
+      left: 35px;
+  }
+  .border12 h4{
+   
+      color: black;
+      font-size: 20px;
+      font-family: serif;
+      position: absolute;
+      top: 400px;
+      left: 160px;
+  }
+  .border12 h5{
+   
+      color: black;
+      font-size: 20px;
+      font-family: serif;
+      position: absolute;
+      top: 400px;
+      left: 320px;
+  }
+  .end .img2{
+    width: 100vw;
+    position: absolute;
+    top: 3150px;
+  }
+  .end h1{
+    color: white;
+    font-size: 80px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   letter-spacing: 5px;
+    position: absolute;
+    top: 3300px;
+    left: 32%;
+   
+  }
+  .end h2{
+    color: white;
+    font-size: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   letter-spacing: 10px;
+    position: absolute;
+    top: 3500px;
+    left: 27%;
+   
+  }
+  .end h3{
+    color: white;
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   letter-spacing: 10px;
+    position: absolute;
+    top: 3700px;
+    left: 33%;
+   
+  }
+  .end h4{
+    color: rgb(165, 165, 239);
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   letter-spacing: 5px;
+    position: absolute;
+    top: 3400px;
+    left:10%;
+   
+  }
+  .end h5{
+    color: rgb(165, 165, 239);
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   letter-spacing: 5px;
+    position: absolute;
+    top: 3700px;
+    left: 10%;
+   
+  }
+  .end h6{
+    color: rgb(165, 165, 239);
+    font-size: 30px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   letter-spacing: 5px;
+    position: absolute;
+    top: 3400px;
+    left: 80%;
+   
+  }
+  .end p{
+    color: rgb(165, 165, 239);
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   letter-spacing: 5px;
+    position: absolute;
+    top: 3700px;
+    left: 80%;
+   
+  }
